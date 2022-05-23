@@ -1,0 +1,26 @@
+var classipp_1_1_signal___ref =
+[
+    [ "LPCValueType", "db/daa/classipp_1_1_signal___ref.html#a7848900a40e53a7846264c694aca7c1c", null ],
+    [ "LPValueType", "db/daa/classipp_1_1_signal___ref.html#a83f97fc98be853239973e97b6cf0a5fe", null ],
+    [ "Ref", "db/daa/classipp_1_1_signal___ref.html#ab8ba14cd0957f65a054945f301fb2729", null ],
+    [ "t_Val", "db/daa/classipp_1_1_signal___ref.html#a54c952803a039428bda8296b19b08aa5", null ],
+    [ "Signal_Ref", "db/daa/classipp_1_1_signal___ref.html#a138885caebe31bc85155ee6a58743306", null ],
+    [ "Signal_Ref", "db/daa/classipp_1_1_signal___ref.html#a9bbc56c172bc1321e254793544f0145d", null ],
+    [ "GetBits", "db/daa/classipp_1_1_signal___ref.html#a0db5c5c5a9fdc565953b98b2b074c6d5", null ],
+    [ "GetBits", "db/daa/classipp_1_1_signal___ref.html#a36955aff30c9fc2f38730a47b754dc59", null ],
+    [ "GetBPS", "db/daa/classipp_1_1_signal___ref.html#af5a8459a277121d69ccf130a3a97abe5", null ],
+    [ "GetChannels", "db/daa/classipp_1_1_signal___ref.html#a8dd8e757bf245cfbe9ca94b1aa9a2a54", null ],
+    [ "GetLength", "db/daa/classipp_1_1_signal___ref.html#aa7382fac8a05fb2a49c11a694f995880", null ],
+    [ "GetRef", "db/daa/classipp_1_1_signal___ref.html#ad2c09b4d905b336390e961404c0c98f5", null ],
+    [ "GetRef_Inside", "db/daa/classipp_1_1_signal___ref.html#a162cef9fe7215421773f49a21b17ff7e", null ],
+    [ "IsEmpty", "db/daa/classipp_1_1_signal___ref.html#abb0d330e2f6459fe4f1f145ef122cd57", null ],
+    [ "operator LPCValueType", "db/daa/classipp_1_1_signal___ref.html#a4780f0c5c018ce9682df45ef02502124", null ],
+    [ "operator LPValueType", "db/daa/classipp_1_1_signal___ref.html#a3208578f59bd23d45dcfa7639a202115", null ],
+    [ "operator()", "db/daa/classipp_1_1_signal___ref.html#ac0a018062eab86a5ce4beec58d8e299c", null ],
+    [ "operator()", "db/daa/classipp_1_1_signal___ref.html#a5e32af70bd645ed5b6f884c4614e22e9", null ],
+    [ "operator=", "db/daa/classipp_1_1_signal___ref.html#ae4353b701d1f88974b7fbd5c16bf39dc", null ],
+    [ "Zero", "db/daa/classipp_1_1_signal___ref.html#a8d76d5c68aba5544513c74143eb74979", null ],
+    [ "_len", "db/daa/classipp_1_1_signal___ref.html#a1848a03f1d27d5649bc4753a9ed20967", null ],
+    [ "_p", "db/daa/classipp_1_1_signal___ref.html#aed0ccfdbd12305b34567a7ae71c74f03", null ],
+    [ "chan_num", "db/daa/classipp_1_1_signal___ref.html#af7c1fc1a8bd0aa380629f790c60f2ae4", null ]
+];

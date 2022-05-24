@@ -100,11 +100,11 @@ $(document).ready(function(){initNavTree('dd/dc9/classos_1_1_launch_process.html
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
 Public Types</h2></td></tr>
-<tr class="memitem:a99ac11a089344e5b1c69bead65669105"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom">{ <a class="el" href="../../dd/dc9/classos_1_1_launch_process.html#a99ac11a089344e5b1c69bead65669105a538917e4cd511f94fce768377be50481">FLAG_ROUTE_OUTPUT</a> = 0x1
-, <a class="el" href="../../dd/dc9/classos_1_1_launch_process.html#a99ac11a089344e5b1c69bead65669105a19d9eca0fabcfde97d837dba355576a5">FLAG_SAVE_OUTPUT</a> = 0x2
-, <a class="el" href="../../dd/dc9/classos_1_1_launch_process.html#a99ac11a089344e5b1c69bead65669105a0e8cf1e3fcff1bd153128be073001eba">FLAG_HIDE_WINDOW</a> = 0x4
+<tr class="memitem:a761c1353c38f67d2cd864ef3ff0fa6ec"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom">{ <a class="el" href="../../dd/dc9/classos_1_1_launch_process.html#a761c1353c38f67d2cd864ef3ff0fa6eca538917e4cd511f94fce768377be50481">FLAG_ROUTE_OUTPUT</a> = 0x1
+, <a class="el" href="../../dd/dc9/classos_1_1_launch_process.html#a761c1353c38f67d2cd864ef3ff0fa6eca19d9eca0fabcfde97d837dba355576a5">FLAG_SAVE_OUTPUT</a> = 0x2
+, <a class="el" href="../../dd/dc9/classos_1_1_launch_process.html#a761c1353c38f67d2cd864ef3ff0fa6eca0e8cf1e3fcff1bd153128be073001eba">FLAG_HIDE_WINDOW</a> = 0x4
  }</td></tr>
-<tr class="separator:a99ac11a089344e5b1c69bead65669105"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:a761c1353c38f67d2cd864ef3ff0fa6ec"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae58c995331c6d8ec59ec19c3ab715fec"><td class="memItemLeft" align="right" valign="top">typedef void(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc9/classos_1_1_launch_process.html#ae58c995331c6d8ec59ec19c3ab715fec">FUNC_HOOKEDOUTPUT</a>) (char *p, UINT len, LPVOID cookie)</td></tr>
 <tr class="separator:ae58c995331c6d8ec59ec19c3ab715fec"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
@@ -133,7 +133,7 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a3628fb656695bc3921c7a8fa710a47c0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a708705245b2b8d75f25515a168933cbc"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc9/classos_1_1_launch_process.html#a708705245b2b8d75f25515a168933cbc">IsRunning</a> ()</td></tr>
 <tr class="separator:a708705245b2b8d75f25515a168933cbc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a974c08d5cc90dee08449af7c4e874b62"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc9/classos_1_1_launch_process.html#a974c08d5cc90dee08449af7c4e874b62">Launch</a> (LPCSTR cmdline, DWORD flag=<a class="el" href="../../dd/dc9/classos_1_1_launch_process.html#a99ac11a089344e5b1c69bead65669105a538917e4cd511f94fce768377be50481">FLAG_ROUTE_OUTPUT</a>, LPCSTR pWorkDirectory=nullptr, LPCSTR pEnvVariableAddon=nullptr)</td></tr>
+<tr class="memitem:a974c08d5cc90dee08449af7c4e874b62"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc9/classos_1_1_launch_process.html#a974c08d5cc90dee08449af7c4e874b62">Launch</a> (LPCSTR cmdline, DWORD flag=<a class="el" href="../../dd/dc9/classos_1_1_launch_process.html#a761c1353c38f67d2cd864ef3ff0fa6eca538917e4cd511f94fce768377be50481">FLAG_ROUTE_OUTPUT</a>, LPCSTR pWorkDirectory=nullptr, LPCSTR pEnvVariableAddon=nullptr)</td></tr>
 <tr class="memdesc:a974c08d5cc90dee08449af7c4e874b62"><td class="mdescLeft">&#160;</td><td class="mdescRight">pEnvVariableAddon is \0 seperated multiple strings (UTF8), ends with \0\0  <a href="../../dd/dc9/classos_1_1_launch_process.html#a974c08d5cc90dee08449af7c4e874b62">More...</a><br /></td></tr>
 <tr class="separator:a974c08d5cc90dee08449af7c4e874b62"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a92e523b7039f3f3a303486143e3709bc"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dc9/classos_1_1_launch_process.html#a92e523b7039f3f3a303486143e3709bc">SendInput</a> (const <a class="el" href="../../d2/db4/classrt_1_1_string___ref.html">rt::String_Ref</a> &amp;str)</td></tr>
@@ -209,8 +209,8 @@ Protected Attributes</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Member Enumeration Documentation</h2>
-<a id="a99ac11a089344e5b1c69bead65669105" name="a99ac11a089344e5b1c69bead65669105"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a99ac11a089344e5b1c69bead65669105">&#9670;&nbsp;</a></span>anonymous enum</h2>
+<a id="a761c1353c38f67d2cd864ef3ff0fa6ec" name="a761c1353c38f67d2cd864ef3ff0fa6ec"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a761c1353c38f67d2cd864ef3ff0fa6ec">&#9670;&nbsp;</a></span>anonymous enum</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -221,10 +221,10 @@ Protected Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a99ac11a089344e5b1c69bead65669105a538917e4cd511f94fce768377be50481" name="a99ac11a089344e5b1c69bead65669105a538917e4cd511f94fce768377be50481"></a>FLAG_ROUTE_OUTPUT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a99ac11a089344e5b1c69bead65669105a19d9eca0fabcfde97d837dba355576a5" name="a99ac11a089344e5b1c69bead65669105a19d9eca0fabcfde97d837dba355576a5"></a>FLAG_SAVE_OUTPUT&#160;</td><td class="fielddoc"><p >retrieve by GetOutput/GetOutputLen </p>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a761c1353c38f67d2cd864ef3ff0fa6eca538917e4cd511f94fce768377be50481" name="a761c1353c38f67d2cd864ef3ff0fa6eca538917e4cd511f94fce768377be50481"></a>FLAG_ROUTE_OUTPUT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a761c1353c38f67d2cd864ef3ff0fa6eca19d9eca0fabcfde97d837dba355576a5" name="a761c1353c38f67d2cd864ef3ff0fa6eca19d9eca0fabcfde97d837dba355576a5"></a>FLAG_SAVE_OUTPUT&#160;</td><td class="fielddoc"><p >retrieve by GetOutput/GetOutputLen </p>
 </td></tr>
-<tr><td class="fieldname"><a id="a99ac11a089344e5b1c69bead65669105a0e8cf1e3fcff1bd153128be073001eba" name="a99ac11a089344e5b1c69bead65669105a0e8cf1e3fcff1bd153128be073001eba"></a>FLAG_HIDE_WINDOW&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a761c1353c38f67d2cd864ef3ff0fa6eca0e8cf1e3fcff1bd153128be073001eba" name="a761c1353c38f67d2cd864ef3ff0fa6eca0e8cf1e3fcff1bd153128be073001eba"></a>FLAG_HIDE_WINDOW&#160;</td><td class="fielddoc"></td></tr>
 </table>
 
 <p class="definition">Definition at line <a class="el" href="../../db/db7/multi__thread_8h_source.html#l00355">355</a> of file <a class="el" href="../../db/db7/multi__thread_8h_source.html">multi_thread.h</a>.</p>
@@ -564,7 +564,7 @@ Protected Attributes</h2></td></tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">DWORD&#160;</td>
-          <td class="paramname"><em>flag</em> = <code><a class="el" href="../../dd/dc9/classos_1_1_launch_process.html#a99ac11a089344e5b1c69bead65669105a538917e4cd511f94fce768377be50481">FLAG_ROUTE_OUTPUT</a></code>, </td>
+          <td class="paramname"><em>flag</em> = <code><a class="el" href="../../dd/dc9/classos_1_1_launch_process.html#a761c1353c38f67d2cd864ef3ff0fa6eca538917e4cd511f94fce768377be50481">FLAG_ROUTE_OUTPUT</a></code>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>

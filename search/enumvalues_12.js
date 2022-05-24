@@ -16,8 +16,8 @@ var searchData=
   ['shading_5frefraction_13',['SHADING_REFRACTION',['../d8/d65/structgl_1_1_material_phong.html#a32b892d22c25c9f209cfbc3c501b5d96a162cc827d98a8ec18b1d8fe5c6e16a32',1,'gl::MaterialPhong']]],
   ['shading_5frefraction_5ffresnel_14',['SHADING_REFRACTION_FRESNEL',['../d8/d65/structgl_1_1_material_phong.html#a32b892d22c25c9f209cfbc3c501b5d96ad7c6cf5b851aea5991096b1db922551c',1,'gl::MaterialPhong']]],
   ['shading_5ftransparent_15',['SHADING_TRANSPARENT',['../d8/d65/structgl_1_1_material_phong.html#a32b892d22c25c9f209cfbc3c501b5d96ae4e8024951ef127e2b856c91da3d26fe',1,'gl::MaterialPhong']]],
-  ['storagehint_5fdriver_16',['StorageHint_Driver',['../db/d18/classgl_1_1__details_1_1_vertex_buffer_object_base.html#a78fb69bdf7dabc9131656a93c715f15aae42f9584645b95b0697d3e353147ad36',1,'gl::_details::VertexBufferObjectBase']]],
-  ['storagehint_5fnochange_17',['StorageHint_NoChange',['../db/d18/classgl_1_1__details_1_1_vertex_buffer_object_base.html#a78fb69bdf7dabc9131656a93c715f15aafdd0b2dab4e47cfb9a961373fa4d897e',1,'gl::_details::VertexBufferObjectBase']]],
-  ['storagehint_5fonboard_18',['StorageHint_OnBoard',['../db/d18/classgl_1_1__details_1_1_vertex_buffer_object_base.html#a78fb69bdf7dabc9131656a93c715f15aa3d4ec53992c424c456dc09ed42c8f750',1,'gl::_details::VertexBufferObjectBase']]],
-  ['storagehint_5fsystem_19',['StorageHint_System',['../db/d18/classgl_1_1__details_1_1_vertex_buffer_object_base.html#a78fb69bdf7dabc9131656a93c715f15aa0e5f4203ddaffa99d333d34484df0334',1,'gl::_details::VertexBufferObjectBase']]]
+  ['storagehint_5fdriver_16',['StorageHint_Driver',['../db/d18/classgl_1_1__details_1_1_vertex_buffer_object_base.html#ab44d34e6565082d921fa9410b8392c56ae42f9584645b95b0697d3e353147ad36',1,'gl::_details::VertexBufferObjectBase']]],
+  ['storagehint_5fnochange_17',['StorageHint_NoChange',['../db/d18/classgl_1_1__details_1_1_vertex_buffer_object_base.html#ab44d34e6565082d921fa9410b8392c56afdd0b2dab4e47cfb9a961373fa4d897e',1,'gl::_details::VertexBufferObjectBase']]],
+  ['storagehint_5fonboard_18',['StorageHint_OnBoard',['../db/d18/classgl_1_1__details_1_1_vertex_buffer_object_base.html#ab44d34e6565082d921fa9410b8392c56a3d4ec53992c424c456dc09ed42c8f750',1,'gl::_details::VertexBufferObjectBase']]],
+  ['storagehint_5fsystem_19',['StorageHint_System',['../db/d18/classgl_1_1__details_1_1_vertex_buffer_object_base.html#ab44d34e6565082d921fa9410b8392c56a0e5f4203ddaffa99d333d34484df0334',1,'gl::_details::VertexBufferObjectBase']]]
 ];

@@ -13,8 +13,8 @@ var structrt_1_1_vec_3_01t___val_00_013_01_4 =
     [ "operator=", "dc/dfd/group__small__math.html#ga51f2f51e5d5ecc0f5304223cab8efd89", null ],
     [ "operator=", "dc/dfd/group__small__math.html#gac26942e89e000253bc3a908d232359da", null ],
     [ "operator=", "dc/dfd/group__small__math.html#ga02d3d824b0c165e29158fdcacfa9617c", null ],
-    [ "SphericalToCartesian", "dc/dfd/group__small__math.html#ga9024fbf7ed8570a81b202898ad2cbae8", null ],
-    [ "SphericalToCartesian", "dc/dfd/group__small__math.html#ga4f5ba664afd4d804b939e28769e4395c", null ],
+    [ "SphericalToEuclidean", "dc/dfd/group__small__math.html#gab60edeb3185c94f9e854aecb76315f4a", null ],
+    [ "SphericalToEuclidean", "dc/dfd/group__small__math.html#gac74c8706ecd86d073c69ae0b63413d23", null ],
     [ "v1", "dc/dfd/group__small__math.html#ga41afbbe508d1e0e08ee335595590b968", null ],
     [ "v1", "dc/dfd/group__small__math.html#gaa455dd4db83613526158824bd107cb6a", null ],
     [ "v2", "dc/dfd/group__small__math.html#ga1d7f164cfaba2a5f392b35dd41a29bb4", null ],
@@ -29,12 +29,8 @@ var structrt_1_1_vec_3_01t___val_00_013_01_4 =
     [ "l", "dc/dfd/group__small__math.html#ga1b0405abd2498edb725e84b7ce03c913", null ],
     [ "LEN", "dc/dfd/group__small__math.html#ga9927d57c452c7e074be142fbc4230a55", null ],
     [ "r", "dc/dfd/group__small__math.html#ga40de759ae367306580a1d95b6bab7f38", null ],
-    [ "s", "dc/dfd/group__small__math.html#gafbbb22756f31ba3d3768fa98e2aedb5c", null ],
-    [ "s", "dc/dfd/group__small__math.html#gafbbb22756f31ba3d3768fa98e2aedb5c", null ],
+    [ "s", "dc/dfd/group__small__math.html#gaba544711fb33290b569d74da17dbe254", null ],
     [ "x", "dc/dfd/group__small__math.html#ga22dc1fcdab990b126af5e220d329cc6b", null ],
-    [ "x", "dc/dfd/group__small__math.html#gac51c7f6ae39ee390f0c240cbf937bffb", null ],
     [ "y", "dc/dfd/group__small__math.html#ga3b3261f5acb60f5247dc00208b879746", null ],
-    [ "y", "dc/dfd/group__small__math.html#ga78ccf0b9d648f407736a62717fe541e4", null ],
-    [ "z", "dc/dfd/group__small__math.html#ga99f05aad97bcab70cbcf2eba759d77fa", null ],
-    [ "z", "dc/dfd/group__small__math.html#ga88cd0561a9c3a7d1037ff200ee9e4c92", null ]
+    [ "z", "dc/dfd/group__small__math.html#ga99f05aad97bcab70cbcf2eba759d77fa", null ]
 ];

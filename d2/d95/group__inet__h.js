@@ -57,9 +57,9 @@ var group__inet__h =
       [ "Name", "d4/d74/structinet_1_1_network_interface.html#a8260a2ecaf8d173084caa958ebb9aa0f", null ],
       [ "SubnetMask", "d4/d74/structinet_1_1_network_interface.html#a2509f9a35131ccbea8e3529eb8fe963e", null ],
       [ "Type", "d4/d74/structinet_1_1_network_interface.html#a165e58c5ee08013f3db7f095c82d4e94", null ],
-      [ "v4", "d4/d74/structinet_1_1_network_interface.html#af8edb91d79340ff0aa7033607f78a2c2", null ],
+      [ "v4", "d4/d74/structinet_1_1_network_interface.html#af5cf12446be79acfa6b744e2269016b6", null ],
       [ "v4Count", "d4/d74/structinet_1_1_network_interface.html#a20d06f9b6464b3b8091b713ccdedea09", null ],
-      [ "v6", "d4/d74/structinet_1_1_network_interface.html#a1f4a34fefba5c3745d1eca18f18c1601", null ],
+      [ "v6", "d4/d74/structinet_1_1_network_interface.html#a6685f42570f0ff5684f7875f6a058517", null ],
       [ "v6Count", "d4/d74/structinet_1_1_network_interface.html#a84a7458387400f6f202c377d4e4abc31", null ]
     ] ],
     [ "inet::NetworkInterfaces", "de/d7c/classinet_1_1_network_interfaces.html", [

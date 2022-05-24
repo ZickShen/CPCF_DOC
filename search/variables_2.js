@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['b_0',['b',['../dc/dfd/group__small__math.html#ga14877bb7b4399da5b849c1cad4db5c13',1,'rt::Vec&lt; t_Val, 3 &gt;::b()'],['../dc/dfd/group__small__math.html#gac86251ceea7b7c002798616805515be9',1,'rt::Vec&lt; t_Val, 3 &gt;::@19::@25::b()'],['../dc/dfd/group__small__math.html#gad591b98bf8b184a904f65c9af607f46a',1,'rt::Vec&lt; t_Val, 4 &gt;::b()'],['../dc/dfd/group__small__math.html#gac65732654f1051a25133991a52afc2c9',1,'rt::Vec&lt; t_Val, 4 &gt;::@29::@35::b()']]],
+  ['b_0',['b',['../dc/dfd/group__small__math.html#ga14877bb7b4399da5b849c1cad4db5c13',1,'rt::Vec&lt; t_Val, 3 &gt;::b()'],['../dc/dfd/group__small__math.html#gade52c927144a2d7a924ac173c78a47b6',1,'rt::Vec&lt; t_Val, 3 &gt;::@18::@24::b()'],['../dc/dfd/group__small__math.html#gad591b98bf8b184a904f65c9af607f46a',1,'rt::Vec&lt; t_Val, 4 &gt;::b()'],['../dc/dfd/group__small__math.html#ga103bf6646a62d524c7838fb4de5975bf',1,'rt::Vec&lt; t_Val, 4 &gt;::@28::@34::b()']]],
   ['back_1',['Back',['../d0/d16/classrt_1_1_circular_buffer.html#a95d60a980224a3d33ca65985edd64682',1,'rt::CircularBuffer']]],
   ['baseinfile_2',['BaseInFile',['../d4/d2a/structos_1_1_file_zip_1_1decompress__stream.html#ace69f2817474755ef20be3811e3cf2dc',1,'os::FileZip::decompress_stream::BaseInFile()'],['../de/d8a/structos_1_1_file_zip_1_1compress__stream.html#a8892e75e4c7b2bc162e52d4aa33cd2d1',1,'os::FileZip::compress_stream::BaseInFile()']]],
   ['baseline_3',['Baseline',['../da/db0/structgl_1_1gdi_font_1_1___code_block___info.html#a22747cc982c4a430ee1e84b0294511f1',1,'gl::gdiFont::_CodeBlock_Info']]],

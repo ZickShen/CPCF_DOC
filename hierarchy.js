@@ -361,14 +361,14 @@ var hierarchy =
         ] ]
       ] ]
     ] ],
-    [ "rt::Buffer_Ref< char >", "d0/da6/classrt_1_1_buffer___ref.html", [
-      [ "rt::Buffer< char >", "d3/db8/classrt_1_1_buffer.html", [
-        [ "rt::BufferEx< char >", "d0/d1a/classrt_1_1_buffer_ex.html", null ]
-      ] ]
-    ] ],
     [ "rt::Buffer_Ref< CHAR >", "d0/da6/classrt_1_1_buffer___ref.html", [
       [ "rt::Buffer< CHAR >", "d3/db8/classrt_1_1_buffer.html", [
         [ "rt::BufferEx< CHAR >", "d0/d1a/classrt_1_1_buffer_ex.html", null ]
+      ] ]
+    ] ],
+    [ "rt::Buffer_Ref< char >", "d0/da6/classrt_1_1_buffer___ref.html", [
+      [ "rt::Buffer< char >", "d3/db8/classrt_1_1_buffer.html", [
+        [ "rt::BufferEx< char >", "d0/d1a/classrt_1_1_buffer_ex.html", null ]
       ] ]
     ] ],
     [ "rt::Buffer_Ref< ext::DeJitteredQueue::SeqT >", "d0/da6/classrt_1_1_buffer___ref.html", [

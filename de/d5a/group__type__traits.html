@@ -592,7 +592,7 @@ Variables</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../df/d63/type__traits_8h_source.html#l00886">886</a> of file <a class="el" href="../../df/d63/type__traits_8h_source.html">type_traits.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d63/type__traits_8h_source.html#l00891">891</a> of file <a class="el" href="../../df/d63/type__traits_8h_source.html">type_traits.h</a>.</p>
 
 </div>
 </div>
@@ -637,11 +637,11 @@ Variables</h2></td></tr>
 <div class="line">                template&lt;<span class="keyword">typename</span>... arg_types&gt;                                                             \</div>
 <div class="line">                static ReturnType Invoke(LPCVOID This, <span class="keyword">const</span> <a class="code hl_define" href="../../de/d5a/group__type__traits.html#ga0b8eac104e99087947a8f5d25011bca1">THISCALL_MFPTR</a>&amp; Func, arg_types&amp;&amp;... args)     \</div>
 <div class="line">                { <span class="keywordflow">return</span> This?<a class="code hl_function" href="../../d3/dab/structrt_1_1__details_1_1___invoke_this_call.html#a0590209e1857a32e314d606050843c25">rt::_details::_InvokeThisCall&lt;__ThisCallPolymorphism_ ## name&gt;::Invoke</a>(This, Func, args...):default_return; }}</div>
-<div class="ttc" id="agroup__type__traits_html_ga0b8eac104e99087947a8f5d25011bca1"><div class="ttname"><a href="../../de/d5a/group__type__traits.html#ga0b8eac104e99087947a8f5d25011bca1">THISCALL_MFPTR</a></div><div class="ttdeci">#define THISCALL_MFPTR</div><div class="ttdef"><b>Definition:</b> <a href="../../df/d63/type__traits_8h_source.html#l00886">type_traits.h:886</a></div></div>
-<div class="ttc" id="agroup__type__traits_html_gaa8d6b2374bb8f46136da4493d5fcd9df"><div class="ttname"><a href="../../de/d5a/group__type__traits.html#gaa8d6b2374bb8f46136da4493d5fcd9df">THISCALL_POLYMORPHISM_DECLARE_</a></div><div class="ttdeci">#define THISCALL_POLYMORPHISM_DECLARE_(return_type, name,...)</div><div class="ttdef"><b>Definition:</b> <a href="../../df/d63/type__traits_8h_source.html#l00887">type_traits.h:887</a></div></div>
-<div class="ttc" id="astructrt_1_1__details_1_1___invoke_this_call_html_a0590209e1857a32e314d606050843c25"><div class="ttname"><a href="../../d3/dab/structrt_1_1__details_1_1___invoke_this_call.html#a0590209e1857a32e314d606050843c25">rt::_details::_InvokeThisCall::Invoke</a></div><div class="ttdeci">static ThisCallPoly::ReturnType Invoke(LPCVOID This, const __ThisCallMemberFunctionPointer &amp;Func, arg_types &amp;&amp;... args)</div><div class="ttdef"><b>Definition:</b> <a href="../../df/d63/type__traits_8h_source.html#l00870">type_traits.h:870</a></div></div>
+<div class="ttc" id="agroup__type__traits_html_ga0b8eac104e99087947a8f5d25011bca1"><div class="ttname"><a href="../../de/d5a/group__type__traits.html#ga0b8eac104e99087947a8f5d25011bca1">THISCALL_MFPTR</a></div><div class="ttdeci">#define THISCALL_MFPTR</div><div class="ttdef"><b>Definition:</b> <a href="../../df/d63/type__traits_8h_source.html#l00891">type_traits.h:891</a></div></div>
+<div class="ttc" id="agroup__type__traits_html_gaa8d6b2374bb8f46136da4493d5fcd9df"><div class="ttname"><a href="../../de/d5a/group__type__traits.html#gaa8d6b2374bb8f46136da4493d5fcd9df">THISCALL_POLYMORPHISM_DECLARE_</a></div><div class="ttdeci">#define THISCALL_POLYMORPHISM_DECLARE_(return_type, name,...)</div><div class="ttdef"><b>Definition:</b> <a href="../../df/d63/type__traits_8h_source.html#l00892">type_traits.h:892</a></div></div>
+<div class="ttc" id="astructrt_1_1__details_1_1___invoke_this_call_html_a0590209e1857a32e314d606050843c25"><div class="ttname"><a href="../../d3/dab/structrt_1_1__details_1_1___invoke_this_call.html#a0590209e1857a32e314d606050843c25">rt::_details::_InvokeThisCall::Invoke</a></div><div class="ttdeci">static ThisCallPoly::ReturnType Invoke(LPCVOID This, const __ThisCallMemberFunctionPointer &amp;Func, arg_types &amp;&amp;... args)</div><div class="ttdef"><b>Definition:</b> <a href="../../df/d63/type__traits_8h_source.html#l00875">type_traits.h:875</a></div></div>
 </div><!-- fragment -->
-<p class="definition">Definition at line <a class="el" href="../../df/d63/type__traits_8h_source.html#l00893">893</a> of file <a class="el" href="../../df/d63/type__traits_8h_source.html">type_traits.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d63/type__traits_8h_source.html#l00898">898</a> of file <a class="el" href="../../df/d63/type__traits_8h_source.html">type_traits.h</a>.</p>
 
 </div>
 </div>
@@ -681,7 +681,7 @@ Variables</h2></td></tr>
 <div class="line">                typedef ReturnType (__thiscall __ThisCallPolymorphism_ ## name::* FUNC_CALL)(__VA_ARGS__);  \</div>
 <div class="line">                ReturnType ThisCallFunction(__VA_ARGS__);</div>
 </div><!-- fragment -->
-<p class="definition">Definition at line <a class="el" href="../../df/d63/type__traits_8h_source.html#l00887">887</a> of file <a class="el" href="../../df/d63/type__traits_8h_source.html">type_traits.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d63/type__traits_8h_source.html#l00892">892</a> of file <a class="el" href="../../df/d63/type__traits_8h_source.html">type_traits.h</a>.</p>
 
 </div>
 </div>
@@ -715,7 +715,7 @@ Variables</h2></td></tr>
 <div class="line">                static <span class="keywordtype">void</span> Invoke(LPCVOID This, <span class="keyword">const</span> <a class="code hl_define" href="../../de/d5a/group__type__traits.html#ga0b8eac104e99087947a8f5d25011bca1">THISCALL_MFPTR</a>&amp; Func, arg_types&amp;&amp;... args)           \</div>
 <div class="line">                { <span class="keywordflow">if</span>(This)<a class="code hl_function" href="../../d3/dab/structrt_1_1__details_1_1___invoke_this_call.html#a0590209e1857a32e314d606050843c25">rt::_details::_InvokeThisCall&lt;__ThisCallPolymorphism_ ## name&gt;::Invoke</a>(This, Func, args...); }}</div>
 </div><!-- fragment -->
-<p class="definition">Definition at line <a class="el" href="../../df/d63/type__traits_8h_source.html#l00899">899</a> of file <a class="el" href="../../df/d63/type__traits_8h_source.html">type_traits.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d63/type__traits_8h_source.html#l00904">904</a> of file <a class="el" href="../../df/d63/type__traits_8h_source.html">type_traits.h</a>.</p>
 
 </div>
 </div>
@@ -757,7 +757,7 @@ Variables</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../df/d63/type__traits_8h_source.html#l00905">905</a> of file <a class="el" href="../../df/d63/type__traits_8h_source.html">type_traits.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d63/type__traits_8h_source.html#l00910">910</a> of file <a class="el" href="../../df/d63/type__traits_8h_source.html">type_traits.h</a>.</p>
 
 </div>
 </div>
@@ -891,7 +891,7 @@ Variables</h2></td></tr>
 <div class="line">                                                _CheckHeap; }}</div>
 <div class="ttc" id="aclassos_1_1_command_line_html_a631a2ab71365627b2b8ab2808cecb197"><div class="ttname"><a href="../../d1/d0a/classos_1_1_command_line.html#a631a2ab71365627b2b8ab2808cecb197">os::CommandLine::GetOption</a></div><div class="ttdeci">rt::String_Ref GetOption(const rt::String_Ref &amp;option_name, const rt::String_Ref &amp;def_val=nullptr) const</div></div>
 <div class="ttc" id="aclassos_1_1_command_line_html_adb339ddc8590aff0192c007e521ff40f"><div class="ttname"><a href="../../d1/d0a/classos_1_1_command_line.html#adb339ddc8590aff0192c007e521ff40f">os::CommandLine::Get</a></div><div class="ttdeci">static const CommandLine &amp; Get()</div></div>
-<div class="ttc" id="aclassrt_1_1_string___ref_html"><div class="ttname"><a href="../../d2/db4/classrt_1_1_string___ref.html">rt::String_Ref</a></div><div class="ttdoc">String_Ref represent a string with length, the string is not necessary zero-terminated.</div><div class="ttdef"><b>Definition:</b> <a href="../../d0/d1d/string__type_8h_source.html#l01283">string_type.h:1284</a></div></div>
+<div class="ttc" id="aclassrt_1_1_string___ref_html"><div class="ttname"><a href="../../d2/db4/classrt_1_1_string___ref.html">rt::String_Ref</a></div><div class="ttdoc">String_Ref represent a string with length, the string is not necessary zero-terminated.</div><div class="ttdef"><b>Definition:</b> <a href="../../d0/d1d/string__type_8h_source.html#l01282">string_type.h:1283</a></div></div>
 <div class="ttc" id="agroup__kernel_html_ga20e24615cbf085c9c1295fe199ec7139"><div class="ttname"><a href="../../d9/d7c/group__kernel.html#ga20e24615cbf085c9c1295fe199ec7139">os::SetLogFile</a></div><div class="ttdeci">bool SetLogFile(LPCSTR filename, bool append=true)</div><div class="ttdoc">filename = nullptr to disable Log File</div></div>
 <div class="ttc" id="agroup__kernel_html_ga9b519428acf6a5b10e4dd18a6b0c2d0b"><div class="ttname"><a href="../../d9/d7c/group__kernel.html#ga9b519428acf6a5b10e4dd18a6b0c2d0b">os::_details::_UnitTestOutputFilePrefix</a></div><div class="ttdeci">LPCSTR _UnitTestOutputFilePrefix</div></div>
 <div class="ttc" id="agroup__runtime__base_html_ga7263964d3be25fc05cdc28e40b88409e"><div class="ttname"><a href="../../d4/d55/group__runtime__base.html#ga7263964d3be25fc05cdc28e40b88409e">_LOG</a></div><div class="ttdeci">#define _LOG(x)</div><div class="ttdef"><b>Definition:</b> <a href="../../df/d5e/runtime__base_8h_source.html#l00196">runtime_base.h:196</a></div></div>
@@ -1582,7 +1582,7 @@ template&lt;typename return_type , typename func_type , typename... arg_types&gt
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../df/d63/type__traits_8h_source.html#l00718">718</a> of file <a class="el" href="../../df/d63/type__traits_8h_source.html">type_traits.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d63/type__traits_8h_source.html#l00723">723</a> of file <a class="el" href="../../df/d63/type__traits_8h_source.html">type_traits.h</a>.</p>
 
 </div>
 </div>
@@ -1606,7 +1606,7 @@ template&lt;typename T &gt; </div>
 <dl class="section examples"><dt>Examples</dt><dd><a class="el" href="../../df/df4/test_api_8cpp-example.html#a184">test_api.cpp</a>.</dd>
 </dl>
 
-<p class="definition">Definition at line <a class="el" href="../../df/d63/type__traits_8h_source.html#l00778">778</a> of file <a class="el" href="../../df/d63/type__traits_8h_source.html">type_traits.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d63/type__traits_8h_source.html#l00783">783</a> of file <a class="el" href="../../df/d63/type__traits_8h_source.html">type_traits.h</a>.</p>
 
 </div>
 </div>
@@ -1630,7 +1630,7 @@ template&lt;typename T &gt; </div>
 <dl class="section examples"><dt>Examples</dt><dd><a class="el" href="../../df/df4/test_api_8cpp-example.html#a183">test_api.cpp</a>.</dd>
 </dl>
 
-<p class="definition">Definition at line <a class="el" href="../../df/d63/type__traits_8h_source.html#l00786">786</a> of file <a class="el" href="../../df/d63/type__traits_8h_source.html">type_traits.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../df/d63/type__traits_8h_source.html#l00791">791</a> of file <a class="el" href="../../df/d63/type__traits_8h_source.html">type_traits.h</a>.</p>
 
 </div>
 </div>

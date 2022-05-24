@@ -35,7 +35,6 @@ var searchData=
   ['texture4c8u_32',['Texture4c8u',['../da/d5a/group__gl__texture.html#ga4e40693c6c1690c45daa9d9593eab891',1,'gl']]],
   ['tls_5fsocketrecv_5fcb_33',['TLS_SocketRecv_CB',['../da/d90/classsec_1_1_t_l_s.html#a733028b838b2a8a284642a353e34a7b0',1,'sec::TLS']]],
   ['tls_5fsocketsend_5fcb_34',['TLS_SocketSend_CB',['../da/d90/classsec_1_1_t_l_s.html#a2cc0e07e4eb3ab2c9ac01fed9a5104fa',1,'sec::TLS']]],
-  ['type_35',['TYPE',['../de/d17/classext_1_1_async_data_queue_infinite.html#ab034380c6f5a9b4e7efd13404c077abb',1,'ext::AsyncDataQueueInfinite']]],
-  ['type_36',['Type',['../dc/de6/structrt_1_1__details_1_1_function_traits_defs_1_1_arg.html#a31bd9b4794aae6265fc0178ac83daab3',1,'rt::_details::FunctionTraitsDefs::Arg']]],
-  ['type_37',['TYPE',['../d5/d88/classext_1_1_async_data_queue.html#ad4443f68a9a4d6148ab3389dc7c2d41d',1,'ext::AsyncDataQueue']]]
+  ['type_35',['Type',['../dc/de6/structrt_1_1__details_1_1_function_traits_defs_1_1_arg.html#a31bd9b4794aae6265fc0178ac83daab3',1,'rt::_details::FunctionTraitsDefs::Arg']]],
+  ['type_36',['TYPE',['../d5/d88/classext_1_1_async_data_queue.html#ad4443f68a9a4d6148ab3389dc7c2d41d',1,'ext::AsyncDataQueue::TYPE()'],['../de/d17/classext_1_1_async_data_queue_infinite.html#ab034380c6f5a9b4e7efd13404c077abb',1,'ext::AsyncDataQueueInfinite::TYPE()']]]
 ];

@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['a_0',['a',['../dc/dfd/group__small__math.html#ga61e845610f45e2f19997ce79dae54347',1,'rt::Vec&lt; t_Val, 4 &gt;::a()'],['../dc/dfd/group__small__math.html#gaeb451e133427ef70210f8d65ec92cf5d',1,'rt::Vec&lt; t_Val, 4 &gt;::@29::@35::a()']]],
+  ['a_0',['a',['../dc/dfd/group__small__math.html#ga61e845610f45e2f19997ce79dae54347',1,'rt::Vec&lt; t_Val, 4 &gt;::a()'],['../dc/dfd/group__small__math.html#ga79a7930e8bd292e9b42b9a6c1ec63d13',1,'rt::Vec&lt; t_Val, 4 &gt;::@28::@34::a()']]],
   ['ambient_1',['Ambient',['../d8/d65/structgl_1_1_material_phong.html#aa9d1789b9170829d9a01c86c62bbd44a',1,'gl::MaterialPhong']]],
   ['ambientmapindex_2',['AmbientMapIndex',['../d8/d65/structgl_1_1_material_phong.html#a09683e82b65c8efc28579ccea8c45131',1,'gl::MaterialPhong']]],
   ['argmentcount_3',['ArgmentCount',['../d6/d9e/structos_1_1_precompiler_1_1__macro.html#a365f4824608331c2a925b60757de55ff',1,'os::Precompiler::_macro']]],
